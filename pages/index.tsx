@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className="text-5xl font-bold underline">Hello world!</h1>
+        <h1 className="text-5xl font-bold  text-yellow-500">Hello world!</h1>
 
         <p className={styles.description}>
           Get started by editing <code className={styles.code}>pages/index.js</code>
