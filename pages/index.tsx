@@ -14,6 +14,7 @@ export default function Home() {
       <main className={styles.main}>
         <h1 className="text-5xl font-bold  text-yellow-500">Hello world!</h1>
 
+        <button className="btn">Button</button>
         <p className={styles.description}>
           Get started by editing <code className={styles.code}>pages/index.js</code>
         </p>
